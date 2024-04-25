@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Sayyid Nur Ramadhan Habibi from Indonesia<br><br>- 🔭 I’m working as PT. Nippisun Indonesia<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I Playing Game</p>
+<p align="left">I'm Sayyid Nur Ramadhan Habibi from Indonesia<br><br>- 🔭 I’m working as PT. Nippisun Indonesia<br>- 📚 I'm currently learning DevOps<br>- ⚡ In my free time I Playing Game and Reading Book</p>
 
 ###
 
