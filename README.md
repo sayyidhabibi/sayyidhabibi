@@ -151,6 +151,6 @@
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&animation=fadeIn" />
 
-<sub>⚡ Made with ❤️ by <b>Sayyid Nur Ramadhan Habibi</b> · IT Section · PT. Nippisun Indonesia</sub>
+
 
 </div>
