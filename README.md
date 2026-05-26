@@ -121,9 +121,9 @@ Seorang IT professional yang berfokus pada pengembangan **sistem internal perusa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sayyidhabibi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyidhabibi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
 
 </div>
 
@@ -140,7 +140,7 @@ Seorang IT professional yang berfokus pada pengembangan **sistem internal perusa
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_USERNAME&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=6" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayyidhabibi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=6" />
 
 </div>
 
