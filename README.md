@@ -16,7 +16,7 @@
 <!--  ANIMATED HEADER BANNER (waving + gradient)        -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sayyid%20Nur%20Ramadhan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Section%20%7C%20PT.%20Nippisun%20Indonesia&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sayyid%20Nur%20Ramadhan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Man%20With%20%7C%20A%20Mission%20&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- ═══════════════════════════════════════════════════ -->
 <!--  TYPING ANIMATION                                   -->
