@@ -43,11 +43,8 @@
 一名专注于企业内部系统开发的 IT 专业人士，工作内容涵盖数据分析仪表板（Dashboard）、Oracle–MySQL 数据管理，以及个人 AI 工具的开发。热衷于结合现代技术，让工作流程更加高效、有条理，并尽量减少“先手动处理吧”这样的情况。除了编码和调试（有时比打 Boss 战还刺激）之外，也喜欢阅读书籍来拓展视野，以及通过玩游戏来放松和恢复状态。.
 
 ```yaml
-🏭 Lokasi      : Kawasan Industri MM2100, Cikarang Barat, Bekasi
-💼 Perusahaan  : PT. Nippisun Indonesia
-🎯 Fokus       : Web Development · System Integration · AI Tools
-📧 Email       : it@nippisun.co.id
-🌐 Website     : www.nippisun.co.id
+🎯 Fokus       : Web Development · Devops · AI Tools · Security
+📧 Email       : sayyidhabibi3@gmail.co.id
 ```
 
 ---
