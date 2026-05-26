@@ -130,7 +130,7 @@ Seorang IT professional yang berfokus pada pengembangan **sistem internal perusa
 <div align="center">
 <br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyidhabibi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff" />
 
 </div>
 
