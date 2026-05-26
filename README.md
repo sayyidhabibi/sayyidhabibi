@@ -54,10 +54,7 @@ Seorang IT professional yang berfokus pada pengembangan **sistem internal perusa
 
 ## 🔥 Active Projects
 
-- **📊 Dashboard Sales IT** — Internal dashboard berbasis Next.js + Express.js dengan integrasi Oracle & MySQL, Redis caching, JWT auth & middleware protection
-- **🤖 JARVIS / IB** — Voice assistant personal berbasis Python + Gemini AI + Edge TTS untuk membuka aplikasi via suara
-- **📦 Customs Report System** — Laporan bea cukai pemasukan/pengeluaran barang berbasis ASP.NET WebForms
-- **⚡ Redis Cache System** — Optimasi query Oracle kompleks dengan TTL 6 menit + auto-refresh scheduler
+-
 
 ---
 
@@ -103,10 +100,8 @@ Seorang IT professional yang berfokus pada pengembangan **sistem internal perusa
 
 ## 📌 Recently Learning
 
-- 🔐 **Middleware Next.js** — Route protection berbasis cookie + dynamic menu permission
-- ⚡ **Redis Caching Strategy** — Cache schema dengan TTL + close period scheduler
-- 🎙️ **Voice AI** — JARVIS dengan Edge TTS suara wanita Indonesia (id-ID-GadisNeural)
-- 📊 **Summary Auto-Calculate** — Scheduler bulanan Oracle → MySQL sync
+- 🔐 **CYBER SECURITY** — Route protection berbasis cookie + dynamic menu permission
+- ⚡ **DEVOPS** — Cache schema dengan TTL + close period scheduler
 
 ---
 
