@@ -22,7 +22,7 @@
 <!--  TYPING ANIMATION                                   -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=👋+Hello%2C+I'm+Sayyid+!;💻+Staff+IT+%7C+Nippisun+Indonesia;🚀+Next.js+%2B+Express.js+Developer;🔧+Building+Internal+Dashboard+Systems;🤖+AI+Enthusiast+%7C+JARVIS+Creator;🌱+Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=👋+Hello%2C+I'm+Sayyid+!;💻;🚀+Next.js+%2B+Express.js+Developer;🔧+Building+Systems;🤖+AI+Enthusiast+%7C+IB+Creator;🌱+Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 ```yaml
 🎯 Fokus       : Web Development · Devops · AI Tools · Security
-📧 Email       : sayyidhabibi3@gmail.co.id
+📧 Email       : sayyidhabibi3@gmail.com
 ```
 
 ---
